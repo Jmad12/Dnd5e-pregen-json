@@ -1,5 +1,5 @@
 # Dnd5e-pregen-json
-My attempt at turning the 16 WoTC 5e pregens into Pauper's-Vault-Compatible Json
+My attempt at turning the 16 WoTC 5e pregens into Pauper's-Vault & VTTES Compatible Json
 
 Have you ever wanted to start a Dungeons and Dragons 5e Campaign *right now*? Someone didnt bring a character to session 1? A new player joined the group last minute? Need some lvl 4 characters for a one shot?
 

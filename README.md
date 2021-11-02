@@ -7,4 +7,4 @@ Based on the [16 WoTC Pregens](https://dnd.wizards.com/charactersheets), this re
 
 Wanna use one of these characters? Install [Better20](https://5e.tools/), Download the `.json` that adapts to your choice of class and level, open the tool's list and use the Pauper's Characters Vault to upload your `.json` to Roll20.
 
-Using only VTTES? Create a new character and overwrite it with the appropriate `.json`. Use the VTTES`.json` version of the file
+Using only VTTES? Create a new character and overwrite it with the appropriate `.json`. Use the `VTTES.json` version of the file

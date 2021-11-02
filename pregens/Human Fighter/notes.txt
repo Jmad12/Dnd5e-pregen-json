@@ -1,0 +1,1 @@
+wotc fighter 9 has the wrong modifier to hit with the javelin (+8 instead of +9)
